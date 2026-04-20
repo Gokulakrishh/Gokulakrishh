@@ -4,20 +4,15 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I am a C++ software developer with several years of experience in modern software development, specializing in:
+I am a Software Engineer specializing in modern C++ and Qt-based applications, with strong experience in HMI systems, medical imaging, and hardware-integrated software.
 
-* ⚙️ Hardware integration
-* 🧵 Multithreading & real-time data processing
-* 🧠 Algorithm development
-* 🖥️ Cross-platform GUI development with Qt
-
-I focus on building **efficient, reliable, and high-performance applications**, especially in environments where software interacts closely with hardware.
+I focus on building high-performance, real-time, and cross-platform applications for Windows, Linux, and macOS, with a strong emphasis on system reliability and scalable architecture
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 **Software Developer**
 *Konica Minolta Sensing Europe B.V.* (until March 2025)
@@ -25,15 +20,15 @@ I focus on building **efficient, reliable, and high-performance applications**, 
 * Integrated spectrophotometer devices into color management software (**MYIROtools**, **AccurioPro**)
 * Worked with hardware SDKs to enable seamless device communication
 * Implemented **multithreading in C++/Qt** for real-time data acquisition
-* Developed cross-platform applications (Windows & macOS)
+* Developed cross-platform applications (Windows, Linux & MacOS)
 * Designed reliable hardware-software interaction layers
 
 ---
 
-## 🛠️ Technical Expertise
+##  Technical Expertise
 
 **Languages & Core Skills:**
-`Modern C++` `Multithreading` `Algorithms` `System Design and Architecture`  `Embedded Programming`
+`Modern C++` `C#` `Multithreading` `Algorithms` `System Design and Architecture`  `Embedded Programming`
 
 **Frameworks & UI:**
 `Qt (Widgets & QML)` `ROS2` `OpenCV`
@@ -46,18 +41,7 @@ I focus on building **efficient, reliable, and high-performance applications**, 
 
 ---
 
-## ⚡ Engineering Highlights
-
-* 🧵 Built **multi-threaded systems** for real-time hardware communication
-* 🧪 Automated testing, build, and deployment pipelines using Azure
-* ⚡ Optimized performance using profiling tools like Valgrind
-* 🧩 Adapted software for OEM and regulatory requirements
-* 🔍 Participated in code reviews ensuring maintainability and quality
-
-
----
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 * 💼 LinkedIn: www.linkedin.com/in/gokulakrishnan-sivakumar-1806
 * 📫 Email: s.gokulakrishnan92@gmail.com
