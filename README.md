@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gokulakrishnan Sivakumar
 
-💻 C++ Software Developer | ⚙️ Hardware Integration | 🧵 Multithreading | 🖥️ Qt (Widgets & QML)
+C++ Engineer |  Hardware Integration | Medical Imaging (DICOM) | Real-Time Systems | Qt / Multithreading
 
 ---
 
@@ -24,7 +24,16 @@ I focus on building high-performance, real-time, and cross-platform applications
 * Designed reliable hardware-software interaction layers
 
 ---
+##  Recent Works
 
+-  DicomViewer (https://gokulakrishh.github.io/dicomviewer-page/)
+    -  A high-performance 2D/3D DICOM image viewer built with Qt and VTK, designed for interactive medical imaging workflows.
+-  Token Optimized Retrieval API 
+    -  A high-performance C++20 retrieval and context optimization layer for RAG systems
+-  FaceRecognition API
+    -  Lightweight face recognition project in modern C++20 using an Eigenfaces/PCA pipeline, a CLI, and a REST API.
+
+---
 ##  Technical Expertise
 
 **Languages & Core Skills:**
